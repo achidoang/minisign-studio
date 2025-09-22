@@ -3,6 +3,7 @@ const siteData = {
   company: {
     name: "MiniSign Studio",
     tagline: "Papan Ucapan Mini – Ekspresikan Momen Spesial!",
+    logoUrl: "/public/image/bumc.jpg",
     whatsappNumber: "082135010481",
     googleFormLink: "https://forms.google.com/placeholder-form-link",
     templateDriveLink: "https://drive.google.com/drive/u/0/folders/1SjnQO_HhnfdYbJ-RvDJzfkdamYNPfyoh"
